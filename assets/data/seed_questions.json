@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "subject": "Desarrollo Cognitivo y Lingüístico",
+    "topic": "Tema 1: Teorías del desarrollo",
+    "question": "Según la teoría psicogenética de Jean Piaget, ¿en qué estadio del desarrollo cognitivo los infantes desarrollan la permanencia del objeto?",
+    "options": [
+      "Estadio sensorio-motor (subestadio 4)",
+      "Estadio preoperacional",
+      "Estadio de las operaciones concretas"
+    ],
+    "correctIndex": 0,
+    "explanation": "En el modelo piagetiano, la adquisición plena del concepto de permanencia del objeto se consolida progresivamente a lo largo del periodo sensorio-motor (0-2 años), alcanzando un hito crucial en los subestadios 4 (8-12 meses) y 6.",
+    "isFavorite": 0,
+    "timesAnswered": 0,
+    "timesFailed": 0
+  },
+  {
+    "id": 2,
+    "subject": "Desarrollo Cognitivo y Lingüístico",
+    "topic": "Tema 2: Desarrollo del lenguaje",
+    "question": "De acuerdo con L. S. Vygotsky, la distancia entre el nivel real de desarrollo determinado por la capacidad de resolver un problema independientemente y el nivel de desarrollo potencial determinado a través de la resolución bajo la guía de un adulto o en colaboración con otro compañero más capaz se denomina:",
+    "options": [
+      "Asimilación y Acomodación",
+      "Zona de Desarrollo Próximo (ZDP)",
+      "Andamiaje estructural"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Zona de Desarrollo Próximo (ZDP) es el constructo central de Vygotsky para explicar el papel de la mediación social y pedagógica en el aprendizaje infantil.",
+    "isFavorite": 0,
+    "timesAnswered": 0,
+    "timesFailed": 0
+  },
+  {
+    "id": 3,
+    "subject": "Didáctica General en Educación Infantil",
+    "topic": "Tema 3: Principios metodológicos",
+    "question": "En el currículo de la etapa de Educación Infantil (0-6 años), ¿cuál de los siguientes es considerado el principio metodológico por excelencia y motor de aprendizaje y desarrollo global?",
+    "options": [
+      "La instrucción directa basada en fichas formales",
+      "El juego heurístico y la actividad lúdica libre y guiada",
+      "El refuerzo extrinsicista mediante calificaciones numéricas"
+    ],
+    "correctIndex": 1,
+    "explanation": "La normativa educativa y las directrices pedagógicas de la UNED señalan el juego como la actividad rectora en Educación Infantil, garantizando la globalización y la significatividad del aprendizaje.",
+    "isFavorite": 0,
+    "timesAnswered": 0,
+    "timesFailed": 0
+  },
+  {
+    "id": 4,
+    "subject": "Didáctica General en Educación Infantil",
+    "topic": "Tema 4: Los rincones de actividad",
+    "question": "¿Cuál es la principal ventaja organizativa del trabajo por rincones en el aula de Educación Infantil?",
+    "options": [
+      "Permite la homogeneización total del ritmo de trabajo del grupo",
+      "Favorece la autonomía, la autorregulación y la atención a la diversidad",
+      "Elimina la necesidad de planificación didáctica por parte del docente"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los rincones promueven que los niños elijan y regulen su actividad según sus intereses y ritmos madurativos, facilitando la intervención diferenciada del maestro.",
+    "isFavorite": 0,
+    "timesAnswered": 0,
+    "timesFailed": 0
+  },
+  {
+    "id": 5,
+    "subject": "Organización del Centro Escolar",
+    "topic": "Tema 1: Órganos de gobierno",
+    "question": "En un Centro de Educación Infantil y Primaria (CEIP), ¿cuál de los siguientes órganos tiene consideración de órgano colegiado de gobierno?",
+    "options": [
+      "El Consejo Escolar",
+      "La Comisión de Coordinación Pedagógica",
+      "El Equipo de Orientación Educativa (EOEP)"
+    ],
+    "correctIndex": 0,
+    "explanation": "La Ley Orgánica de Educación clasifica al Consejo Escolar y al Claustro de Profesores como órganos colegiados de gobierno del centro docente.",
+    "isFavorite": 0,
+    "timesAnswered": 0,
+    "timesFailed": 0
+  }
+]
