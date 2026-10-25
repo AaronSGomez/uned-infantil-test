@@ -1,0 +1,43 @@
+{
+  "name": "uned-infantil-test",
+  "displayName": "UNED Infantil Test (Tablet)",
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "description": "Aplicación Android offline para tablet diseñada para la preparación de exámenes tipo test del Grado en Educación Infantil de la UNED.",
+  "academicContext": {
+    "university": "Universidad Nacional de Educación a Distancia (UNED)",
+    "degree": "Grado en Educación Infantil",
+    "faculty": "Facultad de Educación",
+    "subjectsIncluded": [
+      "Desarrollo Cognitivo y Lingüístico",
+      "Didáctica General en Educación Infantil",
+      "Organización del Centro Escolar",
+      "Sociología de la Educación",
+      "Psicología del Desarrollo"
+    ]
+  },
+  "technicalSpecifications": {
+    "framework": "Flutter",
+    "language": "Dart",
+    "targetPlatform": "Android (Optimizado para Tablet 10\"-11\")",
+    "screenOrientations": ["landscape-primary", "landscape-secondary", "portrait-primary"],
+    "minimumAndroidSdk": 21,
+    "targetAndroidSdk": 34,
+    "database": "SQLite (sqflite)",
+    "stateManagement": "Provider",
+    "networkRequired": false,
+    "userRegistrationRequired": false
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronSGomez/uned-infantil-test"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AaronSGomez",
+      "role": "Developer"
+    }
+  ],
+  "createdAt": "2026-10-25"
+}
